@@ -1,0 +1,12 @@
+{
+    "model_name": "Diabetes Symptom Classifier",
+    "model_type": "RandomForestClassifier",
+    "model_version": "1.0.0",
+    "n_estimators": 50,
+    "test_accuracy": 0.9215686274509803,
+    "cross_validation_accuracy": 0.94,
+    "features": 16,
+    "training_dataset_size": 520,
+    "purpose": "Educational and prototype use",
+    "status": "Prototype - not clinically validated"
+}
